@@ -1,8 +1,8 @@
 
 # BulMMLU Dataset
 
-## Objectives of the project
-The project aims to develop a freely accessible infrastructure for the selection and pre-processing of large datasets for Bulgarian as well as tailored data for particular industries and fine-tuning suitable freely available large language models for specific purposes.
+## Objectives of the project IfGPT
+The project **IfGPT: Infrastructure for Fine-tuning Pre-trained Large Language Models**:  aims to develop a freely accessible infrastructure for the selection and pre-processing of large datasets for Bulgarian as well as tailored data for particular industries and fine-tuning suitable freely available large language models for specific purposes.
 
 ## BulMMLU Dataset
 
